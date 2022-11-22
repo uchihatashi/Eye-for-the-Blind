@@ -20,3 +20,7 @@ The major steps that you have to perform can be briefly summarised in the follow
 - **Train-Test Split:** Combine both images and captions to create the train and test dataset.
 - **Model Building:** This is the stage where you will create your image captioning model by building Encoder, Attention and Decoder model.
 - **Model Evaluation:** Evaluate the models using greedy search and BLEU score.
+
+
+### Trained model and other detail in this Drive link becasue size is to high to upload here:
+[link here](https://drive.google.com/drive/folders/1pq6CFAVOmAyPOx5mUlau9Pd6abpoPtBT?usp=sharing )
